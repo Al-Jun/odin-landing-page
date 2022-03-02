@@ -8,3 +8,7 @@ body {
     display: flex;
     background-color: #1f2937;
 }
+
+.header p {
+    color: #f9faf8;
+}
