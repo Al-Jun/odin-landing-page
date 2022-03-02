@@ -16,6 +16,7 @@ body {
 }
 
 .header ul {
+    display: flex;
     color: #e5e7eb;
     font-size: 18px;
     list-style: none;
