@@ -11,6 +11,7 @@ body {
 }
 
 .second-layer {
+    display: flex;
     background-color: #1f2937;
 }
 
