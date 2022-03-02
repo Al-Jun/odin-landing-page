@@ -6,6 +6,10 @@ body {
     margin: 0;
 }
 
+.inside-container {
+
+}
+
 .header {
     display: flex;
     max-width: 900px;
