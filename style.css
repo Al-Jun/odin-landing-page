@@ -12,6 +12,7 @@ body {
 
 .second-layer {
     display: flex;
+    flex-direction: column;
     background-color: #1f2937;
 }
 
