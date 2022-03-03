@@ -74,5 +74,6 @@ button {
 .image-placeholder {
     flex: 1;
     display: flex;
+    justify-content: center;
     background-color: gray;
 }
