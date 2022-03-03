@@ -71,6 +71,7 @@ body {
 button {
     align-self: flex-start;
     padding: 10px;
+    width: 130px;
 }
 
 .image-placeholder {
