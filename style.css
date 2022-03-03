@@ -9,6 +9,7 @@ body {
 .outside-container {
     min-width: 700px;
     background-color: #1f2937;
+    padding: 20px;
 }
 
 .second-layer {
