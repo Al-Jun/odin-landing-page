@@ -13,7 +13,7 @@ body {
 .second-layer {
     display: flex;
     flex-direction: column;
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
     background-color: #1f2937;
 }
