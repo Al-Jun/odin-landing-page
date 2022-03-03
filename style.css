@@ -76,6 +76,7 @@ button {
     color: #e5e7eb;
     font-size: large;
     font-weight: bold;
+    border-radius: 8px;
 }
 
 .image-placeholder {
