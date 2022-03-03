@@ -78,3 +78,7 @@ button {
     align-items: center;
     background-color: gray;
 }
+
+.image-placeholder p {
+    color: #e5e7eb;
+}
