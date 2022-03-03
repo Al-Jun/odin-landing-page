@@ -49,3 +49,7 @@ body {
     padding: 40px 0;
     max-width: inherit;
 }
+
+.hero-text {
+    display: flex;
+}
