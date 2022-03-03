@@ -73,4 +73,5 @@ button {
 
 .image-placeholder {
     flex: 1;
+    background-color: gray;
 }
