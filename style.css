@@ -48,7 +48,7 @@ body {
 
 .hero-container {
     display: flex;
-    margin: 0 auto;
+    margin: 60px auto;
     padding: 20px 0;
     max-width: inherit;
 }
