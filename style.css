@@ -64,6 +64,7 @@ body {
 .hero-text .hero-main {
     font-size: 48px;
     color: #f9faf8;
+    font-weight: bolder;
 }
 
 button {
