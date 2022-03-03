@@ -7,12 +7,14 @@ body {
 }
 
 .outside-container {
+    min-width: 700px;
     background-color: #1f2937;
 }
 
 .second-layer {
     display: flex;
     flex-direction: column;
+    min-width: inherit;
     max-width: 900px;
     margin: 0 auto;
     background-color: #1f2937;
