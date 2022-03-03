@@ -42,3 +42,7 @@ body {
     padding: 0;
     gap: 15px;
 }
+
+.hero-container {
+    margin: 0 auto;
+}
