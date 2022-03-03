@@ -75,6 +75,7 @@ button {
     background-color: #3882f6;
     color: #e5e7eb;
     font-size: large;
+    font-weight: bold;
 }
 
 .image-placeholder {
