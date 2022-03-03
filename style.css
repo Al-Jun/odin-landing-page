@@ -53,8 +53,13 @@ body {
 .hero-text {
     display: flex;
     flex-direction: column;
+    flex: 1;
 }
 
 button {
     align-self: flex-start;
+}
+
+.image-placeholder {
+    flex: 1;
 }
