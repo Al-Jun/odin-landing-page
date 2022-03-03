@@ -59,6 +59,7 @@ body {
 .hero-text p {
     font-size: 18px;
     color: #e5e7eb;
+    margin: 0;
 }
 
 .hero-text .hero-main {
