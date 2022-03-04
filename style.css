@@ -55,7 +55,7 @@ body {
 
 .square {
     height: 100px;
-    width: 50px;
+    width: 100px;
     border: 3px solid #3882f6;
     border-radius: 12px;
 }
