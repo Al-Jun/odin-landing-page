@@ -45,6 +45,10 @@ body {
     align-items: center;
 }
 
+.tiles p {
+    text-align: center;
+}
+
 .square {
     height: 50px;
     width: 50px;
