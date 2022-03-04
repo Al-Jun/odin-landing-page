@@ -29,6 +29,7 @@ body {
 .second-layer-2 {
     display: flex;
     flex-direction: column;
+    min-width: inherit;
 }
 
 .header {
