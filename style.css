@@ -35,6 +35,10 @@ body {
     align-items: center;
 }
 
+.header-2 p {
+    text-align: center;
+}
+
 .tiles {
     display: flex;
 }
