@@ -12,6 +12,10 @@ body {
     padding: 20px;
 }
 
+.outside-container-2 {
+    min-width: 700px;
+}
+
 .second-layer {
     display: flex;
     flex-direction: column;
