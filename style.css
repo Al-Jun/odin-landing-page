@@ -35,6 +35,10 @@ body {
     align-items: center;
 }
 
+.tiles {
+    display: flex;
+}
+
 .column {
     display: flex;
     flex-direction: column;
