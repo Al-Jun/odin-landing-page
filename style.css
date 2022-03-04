@@ -39,6 +39,10 @@ body {
     flex-direction: column;
 }
 
+.square {
+    height: 50px;
+}
+
 .header {
     display: flex;
     background-color: #1f2937;
