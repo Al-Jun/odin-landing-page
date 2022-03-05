@@ -179,4 +179,5 @@ button {
     max-width: 900px;
     background-color:#3882f6;
     padding: 30px;
+    border-radius: 12px;
 }
