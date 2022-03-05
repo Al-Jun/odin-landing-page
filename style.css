@@ -149,4 +149,5 @@ button {
     min-width: inherit;
     max-width: 900px;
     margin: 0 auto;
+    align-items: center;
 }
