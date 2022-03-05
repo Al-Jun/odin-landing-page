@@ -187,6 +187,10 @@ button {
     flex: auto;
 }
 
+.inner-box-1 {
+    flex-direction: column;
+}
+
 .second-layer-4 p {
     color: #e5e7eb;
     margin: 5px;
