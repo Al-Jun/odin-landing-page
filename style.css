@@ -201,6 +201,10 @@ button {
     margin: 3px;
 }
 
+.second-layer-4 .bold {
+    font-weight: bold;
+}
+
 .second-layer-4 button {
     border: 2px solid #f9faf8;
 }
