@@ -157,3 +157,7 @@ button {
     font-style: italic;
     color: #1f2937;
 }
+
+.second-layer-3 p {
+    align-self: flex-end;
+}
