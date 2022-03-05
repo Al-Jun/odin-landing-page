@@ -171,6 +171,7 @@ button {
     min-width: inherit;
     padding: 20px;
     justify-content: center;
+    align-items: center;
 }
 
 .second-layer-4 {
