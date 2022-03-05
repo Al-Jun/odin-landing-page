@@ -189,6 +189,7 @@ button {
 .box {
     display: flex;
     flex: auto;
+    max-width: 700px;
 }
 
 .inner-box-1, .inner-box-2 {
