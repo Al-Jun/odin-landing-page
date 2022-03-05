@@ -173,6 +173,7 @@ button {
 
 .second-layer-4 {
     display: flex;
+    justify-content: center;
     min-width: inherit;
     max-width: 900px;
     background-color:#3882f6;
