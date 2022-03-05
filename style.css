@@ -109,7 +109,7 @@ button {
     align-items: center;
 }
 
-.header-2 p {
+.header-2 .title {
     text-align: center;
     font-size: 36px;
     font-weight: bolder;
