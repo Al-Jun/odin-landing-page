@@ -173,4 +173,5 @@ button {
 
 .second-layer-4 {
     min-width: inherit;
+    max-width: 900px;
 }
