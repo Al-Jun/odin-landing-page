@@ -151,3 +151,7 @@ button {
     margin: 0 auto;
     align-items: center;
 }
+
+.second-layer-3 .quote {
+    font-size: 36px;
+}
