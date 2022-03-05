@@ -172,6 +172,7 @@ button {
 }
 
 .second-layer-4 {
+    display: flex;
     min-width: inherit;
     max-width: 900px;
 }
