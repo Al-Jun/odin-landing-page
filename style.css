@@ -145,4 +145,5 @@ button {
 
 .second-layer-3 {
     display: flex;
+    flex-direction: column;
 }
