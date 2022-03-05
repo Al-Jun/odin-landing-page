@@ -186,6 +186,10 @@ button {
     flex: auto;
 }
 
+.box {
+    flex: auto;
+}
+
 .inner-box-1, .inner-box-2 {
     display: flex;
     flex: auto;
