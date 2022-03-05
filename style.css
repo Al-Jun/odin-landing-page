@@ -175,4 +175,5 @@ button {
     display: flex;
     min-width: inherit;
     max-width: 900px;
+    background-color:#3882f6;
 }
