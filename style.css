@@ -184,6 +184,7 @@ button {
 
 .inner-box-1, .inner-box-2 {
     display: flex;
+    flex: auto;
 }
 
 .second-layer-4 p {
