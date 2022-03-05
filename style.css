@@ -142,3 +142,7 @@ button {
     padding: 20px;
     background-color: #e5e7eb;
 }
+
+.second-layer-3 {
+    display: flex;
+}
