@@ -165,3 +165,7 @@ button {
     font-weight: bold;
     color: #1f2937;
 }
+
+.outside-container-4 {
+    min-width: inherit;
+}
