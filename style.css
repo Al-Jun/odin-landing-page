@@ -148,4 +148,5 @@ button {
     flex-direction: column;
     min-width: inherit;
     max-width: 900px;
+    margin: 0 auto;
 }
