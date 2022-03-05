@@ -167,6 +167,7 @@ button {
 }
 
 .outside-container-4 {
+    display: flex;
     min-width: inherit;
     padding: 20px;
 }
