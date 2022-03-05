@@ -182,6 +182,10 @@ button {
     border-radius: 12px;
 }
 
+.inner-box-1, .inner-box-2 {
+    display: flex;
+}
+
 .second-layer-4 p {
     color: #e5e7eb;
     margin: 5px;
