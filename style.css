@@ -147,4 +147,5 @@ button {
     display: flex;
     flex-direction: column;
     min-width: inherit;
+    max-width: 900px;
 }
