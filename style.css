@@ -223,4 +223,5 @@ button {
 
 .outside-container- {
     display: flex;
+    min-width: 700px;
 }
